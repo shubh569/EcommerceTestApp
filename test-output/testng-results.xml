@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-18T15:34:51 IST" name="Default suite" finished-at="2023-09-18T15:35:47 IST" duration-ms="55972">
+    <groups>
+    </groups>
+    <test started-at="2023-09-18T15:34:51 IST" name="Default test" finished-at="2023-09-18T15:35:47 IST" duration-ms="55972">
+      <class name="com.amdocs.mystore.testcases.IndexPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amdocs.mystore.testcases.IndexPageTest@47d90b9e]" started-at="2023-09-18T15:34:51 IST" name="setup" finished-at="2023-09-18T15:35:00 IST" duration-ms="9204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.amdocs.mystore.testcases.IndexPageTest@47d90b9e]" started-at="2023-09-18T15:35:00 IST" name="loginTest" finished-at="2023-09-18T15:35:47 IST" duration-ms="46687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.amdocs.mystore.testcases.IndexPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
